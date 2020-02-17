@@ -33,12 +33,12 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>LTIN124555-releases</name>
+        <name>DEHEREMAP8485-releases</name>
         <url>http://localhost:8081/artifactory/libs-release</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
-      <name>libs-snapshot</name>
+      <name>DEHEREMAP8485-snapshots</name>
       <url>http://localhost:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
