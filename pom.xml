@@ -23,7 +23,7 @@
     <plugins>
       <plugin>
             <artifactId>maven-deploy-plugin</artifactId>
-            <version>3.4.0</version>
+            <version>3.5.0</version>
             <configuration>
               <deployAtEnd>true</deployAtEnd>
             </configuration>
